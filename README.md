@@ -2,7 +2,7 @@
 
 A selection of scripts created during the introductionary Python course by CareerFoundry. The Instacart dataset was used as training material.
 
-## Course content
+## Project Steps
 * Data wrangling and subsetting
 * Data consistency checks
 * Combining data
